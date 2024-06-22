@@ -1,4 +1,3 @@
-# React + Vite
 
 # [Click Here](https://react-mini-api-gagan.vercel.app/)
 
